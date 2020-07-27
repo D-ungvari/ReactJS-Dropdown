@@ -15,7 +15,7 @@
   float: left;
 }
 .error-msg{
-  color: red;
+  color: orange;
 }
 
 .streetaddress-block { width: 50%; margin: 0 auto; margin-bottom: 10px; display: inline-block;}
